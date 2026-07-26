@@ -25,7 +25,7 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 | Project | Description | Technologies |
 |---|---|---|
 | 🎙️ **Telecom Voice AI Assistant** | Fully offline RAG assistant diagnosing VoLTE/IMS network incidents from natural language + automated PCAP trace analysis. Built during internship @ Ooredoo Tunisia. | Python • Flask • React • Ollama • RAG • DPO |
-| 🌾 **AgriSmart** | AI-driven smart farming platform: autonomous irrigation agent, satellite imagery analysis (NDVI), offline crop disease detection, and livestock management. | Flutter • React • FastAPI • LangChain • TensorFlow Lite • PostgreSQL/PostGIS |
+| 🌾 **[AgriSmart](https://github.com/firas191/AgriSmart)** | AI-driven smart farming platform: autonomous irrigation agent, satellite imagery analysis (NDVI), offline crop disease detection, and livestock management. *(Contributor — Data Scientist role: ML models, feature engineering, data analysis)* | Flutter • React • FastAPI • LangChain • TensorFlow Lite • PostgreSQL/PostGIS |
 | 🤝 **Universelle Ariana** | Full-stack platform connecting local associations with donors and volunteers — fundraising campaigns, community posts, and engagement tracking. | React • FastAPI/Backend • PostgreSQL |
 
 ## 🌐 Find Me
