@@ -9,7 +9,7 @@
 ## 💻 Tech Stack
 
 **🤖 AI / ML**
-Python • Scikit-Learn • RAG • LLMs (Ollama, Qwen) • Fine-tuning (DPO, QLoRA) • TensorFlow/TF Lite
+Python • Scikit-Learn • RAG • LLMs (Ollama, Qwen) • Fine-tuning (DPO, QLoRA, LoRA) • TensorFlow/TF Lite • PyTorch
 
 **📊 Data**
 Pandas • NumPy • SQL • Data Cleaning • PostgreSQL • PostGIS
@@ -26,6 +26,7 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 |---|---|---|
 | 🎙️ **Telecom Voice AI Assistant** | Fully offline RAG assistant diagnosing VoLTE/IMS network incidents from natural language + automated PCAP trace analysis. Built during internship @ Ooredoo Tunisia. | Python • Flask • React • Ollama • RAG • DPO |
 | 🌾 **[AgriSmart](https://github.com/firas191/AgriSmart)** | AI-driven smart farming platform: autonomous irrigation agent, satellite imagery analysis (NDVI), offline crop disease detection, and livestock management. *(Contributor — Data Scientist role: ML models, feature engineering, data analysis)* | Flutter • React • FastAPI • LangChain • TensorFlow Lite • PostgreSQL/PostGIS |
+| 📖 **[StoryTime AI](https://github.com/firas191/deep-learning)** | University deep learning project — 6-stage pipeline turning an image into a complete, safe children's story (captioning → story generation → quiz → safety filtering → child-friendly adaptation → cartoonization). *(Team project — my contribution: Child-Friendly Adaptation module using Flan-T5-small + scikit-learn tone classifier)* | Python • PyTorch/TensorFlow • Flan-T5 • TinyLlama • LoRA • CycleGAN • Scikit-Learn |
 | 🤝 **Universelle Ariana** | Full-stack platform connecting local associations with donors and volunteers — fundraising campaigns, community posts, and engagement tracking. | React • FastAPI/Backend • PostgreSQL |
 
 ## 🌐 Find Me
