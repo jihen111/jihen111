@@ -30,6 +30,48 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 | 🌳 **[RLT — Reinforcement Learning Trees](https://github.com/jihen111/rlt-reinforcement-learning-trees)** | Research project: from-scratch implementation of RLT (variable muting, linear-combination splits) evaluated via a two-phase design — synthetic scenario testing, then validation on 10 real UCI datasets vs. Random Forest, ExtraTrees, BART and Lasso. Followed the CRISP-DM methodology. | Python • NumPy • Pandas • Scikit-Learn |
 | 🤝 **[Universelle Ariana](https://github.com/jihen111/Universelle-Ariana-Maratech-Hackaton)** | Full-stack platform connecting local associations with donors and volunteers — fundraising campaigns, community posts, and engagement tracking. | React • FastAPI/Backend • PostgreSQL |
 
+## 🎯 Currently Working On
+- 🤖 Agentic AI Systems (RAG, LangChain)
+- 📡 Telecom Network Diagnostics AI
+- 🌾 AgriTech & Precision Farming AI
+- 📖 Deep Learning Research (RLT Benchmarking)
+- ⚙️ MLOps & Deployment
+
+---
+
 ## 🌐 Find Me
-📧 jihen.troudi@esprit.tn
-💼 [LinkedIn](https://www.linkedin.com/in/jihene-troudi-582328290/)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jihene-troudi-582328290/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jihen.troudi@esprit.tn">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,react,typescript,flask,fastapi,docker,git,github,vscode,postgres" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jihen111&color=grey&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
