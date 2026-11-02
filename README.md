@@ -1,15 +1,22 @@
 # Hi 👋 I'm Jihene Troudi
-### Data Science Engineer • AI/ML Engineer • CY Tech Exchange Student
+### Data Science Engineer • AI Agents for Telecom Networks • CY Tech Exchange Student
 
 ## 🚀 About Me
 🎓 Engineering student in Data Science @ **ESPRIT** (Tunisia), 5th year
 🔄 Exchange semester @ **CY Tech**, Cergy-Paris 🇫🇷 (Sept–Dec 2026)
-🎯 Currently looking for a **PFE (final-year internship)** in Data Science / ML — France & beyond
+📡 Focused on **AI agents and anomaly detection for telecom networks**: diagnosing incidents, keeping a human in control, and measuring what an autonomous system can be trusted to do
+🎯 Currently looking for a **6-month PFE (final-year internship)** in AI / Data Science, ideally applied to networks — France & beyond, from early 2027
 
 ## 💻 Tech Stack
 
 **🤖 AI / ML**
-Python • Scikit-Learn • RAG • LLMs (Ollama, Qwen) • Fine-tuning (DPO, QLoRA, LoRA) • TensorFlow/TF Lite • PyTorch
+Python • Scikit-Learn • RAG • LLMs (Ollama, Qwen) • Fine-tuning (DPO, QLoRA, LoRA) • TensorFlow/TF Lite • PyTorch • PyTorch Geometric (GNN)
+
+**🧠 AI Agents**
+LangChain • ReAct • Multi-agent systems • Agentic RAG • Reinforcement Learning • Guardrails & abstention
+
+**📡 Networks & Telecom**
+VoLTE/IMS (SIP, Diameter) • 4G/5G (NAS, NGAP) • 3GPP • PCAP trace analysis (tshark) • Network monitoring (Zabbix) • NetworkX
 
 **📊 Data**
 Pandas • NumPy • SQL • Data Cleaning • PostgreSQL • PostGIS
@@ -25,6 +32,7 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 | Project | Description | Technologies |
 |---|---|---|
 | 🎙️ **[Telecom AI Diagnostic Assistant](https://github.com/jihen111/telecom-ai-diagnostic-assistant)** | Offline RAG-based AI assistant for VoLTE/IMS network diagnostics — combines semantic search, deterministic protocol guardrails, and automated PCAP trace analysis. Built during internship @ Ooredoo Tunisia. | Python • Flask • React • Ollama • RAG • DPO |
+| 🕸️ **[Graph-Based Network Intrusion Detection](https://github.com/jihen111/graph-network-intrusion-gnn)** | Network traffic modeled as host graphs (E-GraphSAGE) on CIC-IDS2017. Two evaluation protocols (known vs. unseen attacks), thresholds set on validation data: **97% of unseen attacks detected at ~3% false positives**, vs. 31% without the graph. Limits analyzed and documented. | Python • PyTorch Geometric • NetworkX • Scikit-Learn |
 | 🌾 **[AgriSmart](https://github.com/firas191/AgriSmart)** | AI-driven smart farming platform: autonomous irrigation agent, satellite imagery analysis (NDVI), offline crop disease detection, and livestock management. *(Contributor — Data Scientist role: ML models, feature engineering, data analysis)* | Flutter • React • FastAPI • LangChain • TensorFlow Lite • PostgreSQL/PostGIS |
 | 📖 **[StoryTime AI](https://github.com/firas191/deep-learning)** | University deep learning project — 6-stage pipeline turning an image into a complete, safe children's story (captioning → story generation → quiz → safety filtering → child-friendly adaptation → cartoonization). *(Team project — my contribution: Child-Friendly Adaptation module using Flan-T5-small + scikit-learn tone classifier)* | Python • PyTorch/TensorFlow • Flan-T5 • TinyLlama • LoRA • CycleGAN • Scikit-Learn |
 | 🌳 **[RLT — Reinforcement Learning Trees](https://github.com/jihen111/rlt-reinforcement-learning-trees)** | Research project: from-scratch implementation of RLT (variable muting, linear-combination splits) evaluated via a two-phase design — synthetic scenario testing, then validation on 10 real UCI datasets vs. Random Forest, ExtraTrees, BART and Lasso. Followed the CRISP-DM methodology. | Python • NumPy • Pandas • Scikit-Learn |
@@ -32,11 +40,11 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 | 📄 **[AI Resume Agent](https://github.com/jihen111/ai-resume-agent)** | Full-stack AI resume analyzer: upload a resume (PDF/TXT/MD) and a job description to get structured extraction (skills, experience, business impact) and an evidence-based 0–100 job-fit score with written justification. Strict JSON-schema LLM outputs, provider-agnostic analyzer design with an offline fallback mode. | Python • FastAPI • Pydantic • LangChain • OpenAI • React • TypeScript • Tailwind • Docker |
 
 ## 🎯 Currently Working On
-- 🤖 Agentic AI Systems (RAG, LangChain)
-- 📡 Telecom Network Diagnostics AI
-- 🌾 AgriTech & Precision Farming AI
-- 📖 Deep Learning Research (RLT Benchmarking)
-- ⚙️ MLOps & Deployment
+- 📡 AI agents for network resilience: observe → characterize the anomaly → respond → verify
+- 🛡️ Trustworthy AI: guardrails, abstention and human-in-the-loop decisions
+- 🕸️ Network anomaly detection with graph neural networks
+- 🤖 Agentic AI systems (RAG, LangChain, multi-agent)
+- ⚙️ Containers & deployment (Docker, learning Kubernetes)
 
 ---
 
@@ -67,12 +75,3 @@ Git • GitHub • Docker • Linux/WSL • CI/CD
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jihen111&color=grey&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
